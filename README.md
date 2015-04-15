@@ -2,7 +2,7 @@
 
 ## Description of data set
 
-The size of data set is 181*88. There are 30 volunteers, each of volunteer containing 6 activity. 30*6 = 180. Hence,
+The size of data set is 181 rows 88 columns. There are 30 volunteers, each of volunteer containing 6 activity. 30 times 6 equals 180. Hence,
 180 observations are expected. The first row is the column name. 
 
 For column, there are 86 measurement involves mean or std. The two addtional columns indicate the index of subject(volunteers )  an activity of each volunteers. 
