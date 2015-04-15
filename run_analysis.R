@@ -1,4 +1,5 @@
 run_analysis <- function(){
+  library(dplyr)
   #setwd("~/DataScience")
   testPath <- "UCI HAR Dataset/train/X_train.txt"
   trainPath <- "UCI HAR Dataset/test/X_test.txt"
